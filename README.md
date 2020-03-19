@@ -31,7 +31,7 @@ as precisely because of that you will know the questions and problems of a newco
 	1. Extract project anywhere to your computer's physical location
 	2. Double click on "RadiobuttonlistValidationClientSide.sln"
 	3. You will see the list of page(s), open it and follow sample code snippet
-	4. Change necessary changes (most likely connection string) if applicable & Run it
+	4. Make necessary changes (most likely connection string) if applicable & Run it
 	5. That's it! You are now ready to go.. ;)
 
 AspnetO is a place where we share, you learn! For more tutorials on web designing and development, 
